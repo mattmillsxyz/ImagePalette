@@ -29,12 +29,6 @@
   "replace": {
     "bfoxwell/image-palette": "*"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:mattmillsxyz/ImagePalette.git"
-    }
-  ],
   "require": {
     "php": ">=5.4.0",
     "ext-gd": "*"
