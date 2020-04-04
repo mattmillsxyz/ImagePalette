@@ -1,5 +1,5 @@
 {
-  "name": "mattmillxyz/image-palette",
+  "name": "brianmcdo/image-palette",
   "type": "library",
   "description": "Extracts colors from an image and generates a color palette against a whitelist of colors.",
   "keywords": [
